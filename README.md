@@ -1,6 +1,5 @@
 # Bank Management System
 
-Bank-Management-System
 In this project there a three users (levels of authorization): 1-admin 2-customer 3-staff
 
 1-customer can perform transaction and like that
