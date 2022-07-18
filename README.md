@@ -1,6 +1,6 @@
 # Bank Management System
 
-In this project there a three users (levels of authorization): 1-admin 2-customer 3-staff
+Bank Management System made using C++. In this project I have considered three users (levels of authorization): 1-admin 2-customer 3-staff
 
 1-customer can perform transaction and like that
 
